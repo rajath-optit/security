@@ -5,6 +5,7 @@ def identify_regulatory_requirements():
     relevant_regulations = []
 
     # Check if GDPR compliance is required
+    #adding....
     # Since GDPR compliance is required, add it to the list of relevant regulations
     relevant_regulations.append("GDPR")
 
